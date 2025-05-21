@@ -13,7 +13,7 @@ const listaEventos = [...eventos]; // Copia inicial
 
 function mostrarMenu() {
   console.log("\x1b[32m\n--------------------------\n");
-  console.log("\n=== GESTOR DE EVENTOS ===");
+  console.log("\n==== GESTOR DE EVENTOS ====");
   console.log("1. Agregar evento");
   console.log("2. Listar eventos");
   console.log("3. Eliminar evento");

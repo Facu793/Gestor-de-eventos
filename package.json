@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "gestor-de-eventos",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facu793/Gestor-de-eventos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facu793/Gestor-de-eventos/issues"
+  },
+  "homepage": "https://github.com/Facu793/Gestor-de-eventos#readme",
+  "description": ""
 }
